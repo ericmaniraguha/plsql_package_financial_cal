@@ -48,6 +48,9 @@ This financial calculator package demonstrates several important PL/SQL package 
 - Make sure `SERVEROUTPUT` is ON to see the results.
 - The test block at the end demonstrates how to call each function.
 
-- Expected outcome
-- ![image](https://github.com/user-attachments/assets/7981539f-6629-42e4-a861-3d8d69e2a5f9)
+- **Expected Outcome:**
+  - ![image](https://github.com/user-attachments/assets/7981539f-6629-42e4-a861-3d8d69e2a5f9)
 
+## MIT License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
